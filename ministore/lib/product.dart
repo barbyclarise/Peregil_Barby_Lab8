@@ -76,13 +76,13 @@ const List<Product> allProducts = [
     icon: Icons.checkroom_rounded,
   ),
   Product(
-    name: 'Acuostic Guitar',
+    name: 'Acoustic Guitar',
     category: 'Instruments',
     price: 6899.00,
     icon: Icons.music_note,
   ),
   Product(
-    name: 'Keybaord (Piano)',
+    name: 'Keyboard (Piano)',
     category: 'Instruments',
     price: 14999.00,
     icon: Icons.piano,
